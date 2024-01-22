@@ -11,12 +11,6 @@
 - 스토어
 - Todo 예제만들기
 
-### 섹션 2. 라이프사이클
-- 기본 개념
-- onMount, onDestroy
-- beforeUpdate, afterUpdate
-
-
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
