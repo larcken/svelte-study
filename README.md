@@ -4,3 +4,8 @@
 # basic
 ## 무료 강의인 svelte.js 입문 가이드 과정 정리
 
+# lifecycle
+## svelte 의 라이프사이클
+
+# tick
+# tick 강의
