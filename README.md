@@ -8,4 +8,7 @@
 ## svelte 의 라이프사이클
 
 # tick
-# tick 강의
+## tick 강의
+
+# 보간법 (interpolation)
+- 보간법 표현식과 디버그에 대한 내용을 학습
