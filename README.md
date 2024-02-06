@@ -4,13 +4,14 @@
 # basic
 - 무료 강의인 svelte.js 입문 가이드 과정 정리
 
-# lifecycle
+# 섹션2 lifecycle
 - svelte 의 라이프사이클
-
-# tick
+## tick
 - tick 강의
 
-# 보간법 (interpolation)
+# 섹션3. 보간법 : interpolation
 - 보간법 표현식과 디버그에 대한 내용을 학습
 
-# 반응성
+# 섹션4. 반응성 : reactivity
+
+# 섹션5. 클래스와 스타일
