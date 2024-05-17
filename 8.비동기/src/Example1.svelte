@@ -132,8 +132,22 @@
   // })
 
   // 3. best 간결하게 사용
-  a()
-    .then(()=>b())
-    .then(()=>c())
-    .then(()=>d())
+  // a()
+  //   .then(()=>b())
+  //   .then(()=>c())
+  //   .then(()=>d())
+
+  // async, await 사용
+  // Promise 가 함수가 있으면 await를 사용할 수 있다.
+  // a 수행하고 b.. c.. d.. 수행
+  // await 를 쓰려면 async 를 붙여줘야한다.
+  async function asyncFn() {
+    await a()
+    await b()
+    await c()
+    await d()
+  }  
+  console.log('aa')
+  asyncFn()
+
 </script>
