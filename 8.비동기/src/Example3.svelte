@@ -1,6 +1,5 @@
 <script>
     import axios from 'axios'
-  import { select_option } from 'svelte/internal';
 
     // omdb 사이트에 발급받은 api key
     let apikey = "77d38320";
