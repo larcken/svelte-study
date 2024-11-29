@@ -3,6 +3,7 @@
   import Example2 from './Example2.svelte'
   import Example3 from './Example3.svelte'
   import Example4 from './Example4.svelte'
+  import Example5 from './Example5.svelte'
 </script>
 
 
@@ -13,7 +14,10 @@
 <!-- <Example2 /> -->
 
 <h1>3. 영화 검색 API 예제 만들기</h1> 
-<Example3 />
+<!-- <Example3 /> -->
 
 <h1>4. Await 블록</h1> 
-<Example4 />
+<!-- <Example4 /> -->
+
+<h1>5. Await 블록으로 영화 검색 API 예제 리팩토링</h1> 
+<Example5 />
