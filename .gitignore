@@ -2,3 +2,8 @@
 /public/build/
 
 .DS_Store
+5.클래스와 스타일/package-lock.json
+6.요소바인딩/package-lock.json
+8.비동기/package-lock.json
+interpolation/package-lock.json
+reactivity/package-lock.json
