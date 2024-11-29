@@ -1,0 +1,1 @@
+section.svelte-facpek.svelte-facpek{border:1px solid orange;padding:10px;margin-bottom:10px}.parent.svelte-facpek.svelte-facpek{width:100px;height:100px;background-color:blue}.child.svelte-facpek.svelte-facpek{width:50px;height:50px;background-color:red}.wheel.parent.svelte-facpek.svelte-facpek{overflow:auto}.wheel.svelte-facpek .child.svelte-facpek{height:1000px}
